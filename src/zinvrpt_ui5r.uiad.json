@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Inventory Report",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Inventory Report"
+  },
+  "ui5AppDetails": {
+    "appId": "inventoryreport"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_55BEF52F863EF8CA9C33B2F051274BF0EDA94463_TM",
+    "semanticObject": "ZINVRPT",
+    "action": "ZINVRPT",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_55BEF52F863EF8CA9C33B2F051274BF0EDA94463_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Inventory Report"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+@EndUserText.label: 'zse_inventory'
+define service Zse_inventory {
+  expose zcds_mmr03_report;
+}
